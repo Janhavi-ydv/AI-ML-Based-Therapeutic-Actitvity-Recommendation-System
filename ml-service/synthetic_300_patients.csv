@@ -1,0 +1,301 @@
+User ID,Age,Gender,BMI,Smoking,Alcohol Consumption,Exercise Frequency,Chronic Condition,Stress Level (1-10),Anxiety Symptoms,Trouble Sleeping,Exercise Recommendation (Output),Meditation Recommendation (Output)
+1,51,F,20.2,Yes,Regularly,Regularly (5-6 times),Osteoarthritis,Moderate (5),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+2,33,M,20.1,Yes,Regularly,Never,Chronic Pain,Moderate (5),No,Yes,Flexibility Exercise,Body Scan Meditation
+3,38,M,32.3,Yes,Regularly,Never,Hypertension,High (9-10),No,Yes,Aerobic Exercise,Body Scan Meditation
+4,66,F,19.0,No,Never,Regularly (5-6 times),Hypotension,Moderately High (6-8),Yes,Yes,Strength Training,Body Scan Meditation
+5,59,F,23.9,No,Never,Rarely (1-2 times),Hypotension,Low (1-4),No,Yes,Strength Training,Body Scan Meditation
+6,38,F,27.5,Yes,Occasionally,Occasionally (3-4 times),None,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+7,41,F,28.7,No,Occasionally,Occasionally (3-4 times),Hypertension,Moderate (5),No,Yes,Aerobic Exercise,Body Scan Meditation
+8,47,M,22.1,No,Regularly,Occasionally (3-4 times),Chronic Pain,Low (1-4),No,Yes,Flexibility Exercise,Body Scan Meditation
+9,40,M,29.9,No,Occasionally,Occasionally (3-4 times),None,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+10,74,M,22.2,No,Never,Never,Osteoarthritis,Moderately High (6-8),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+11,67,M,34.2,No,Never,Rarely (1-2 times),Hypertension,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+12,67,F,20.0,Yes,Regularly,Regularly (5-6 times),Osteoarthritis,High (9-10),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+13,45,M,28.7,No,Regularly,Regularly (5-6 times),Osteoarthritis,Moderate (5),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+14,58,M,24.9,Yes,Occasionally,Never,Diabetes,Moderate (5),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+15,58,M,29.7,No,Occasionally,Regularly (5-6 times),None,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+16,60,M,22.2,Yes,Occasionally,Regularly (5-6 times),Diabetes,Moderate (5),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+17,34,F,20.4,No,Regularly,Occasionally (3-4 times),None,Moderately High (6-8),No,Yes,Strength Training,Body Scan Meditation
+18,50,F,30.4,No,Occasionally,Occasionally (3-4 times),Chronic Pain,High (9-10),No,Yes,Aerobic Exercise,Body Scan Meditation
+19,56,M,33.2,Yes,Occasionally,Never,None,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+20,32,M,31.6,No,Never,Occasionally (3-4 times),Hypotension,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+21,69,M,24.7,No,Never,Occasionally (3-4 times),Diabetes,Moderate (5),No,No,Aerobic Exercise,Mindfulness Meditation
+22,66,M,29.8,No,Never,Occasionally (3-4 times),Chronic Pain,Moderate (5),No,No,Flexibility Exercise,Body Scan Meditation
+23,73,F,27.1,Yes,Occasionally,Never,Diabetes,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+24,28,M,25.9,No,Never,Rarely (1-2 times),Diabetes,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+25,26,F,25.5,No,Regularly,Occasionally (3-4 times),Chronic Pain,High (9-10),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+26,34,M,22.5,Yes,Occasionally,Never,None,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+27,64,M,19.9,Yes,Never,Regularly (5-6 times),Hypertension,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+28,31,M,31.0,Yes,Never,Rarely (1-2 times),Diabetes,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+29,51,M,28.0,No,Never,Regularly (5-6 times),None,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+30,49,F,22.0,Yes,Occasionally,Occasionally (3-4 times),Diabetes,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+31,41,F,31.9,Yes,Occasionally,Regularly (5-6 times),Diabetes,Moderate (5),No,Yes,Aerobic Exercise,Body Scan Meditation
+32,43,F,23.4,Yes,Occasionally,Never,Hypotension,High (9-10),Yes,No,Strength Training,Guided Imagery Meditation
+33,38,M,32.4,No,Regularly,Regularly (5-6 times),Hypotension,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+34,48,F,25.0,Yes,Occasionally,Never,Chronic Pain,Moderate (5),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+35,67,M,33.5,No,Occasionally,Rarely (1-2 times),Chronic Pain,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+36,45,M,21.8,No,Never,Rarely (1-2 times),None,Moderate (5),No,No,Strength Training,Mindfulness Meditation
+37,25,M,22.1,Yes,Never,Regularly (5-6 times),Hypertension,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+38,30,M,27.0,Yes,Occasionally,Rarely (1-2 times),Hypotension,Moderately High (6-8),No,No,Strength Training,Guided Imagery Meditation
+39,31,M,27.1,Yes,Regularly,Never,Diabetes,Moderate (5),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+40,50,M,34.8,No,Occasionally,Occasionally (3-4 times),Hypertension,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+41,56,F,30.7,Yes,Occasionally,Never,None,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+42,33,F,20.3,Yes,Occasionally,Never,Hypertension,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+43,27,F,19.4,Yes,Occasionally,Regularly (5-6 times),Chronic Pain,High (9-10),No,No,Flexibility Exercise,Guided Imagery Meditation
+44,33,F,31.4,No,Occasionally,Regularly (5-6 times),Hypotension,Low (1-4),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+45,72,F,23.4,No,Never,Regularly (5-6 times),Diabetes,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+46,40,F,33.9,No,Regularly,Occasionally (3-4 times),Chronic Pain,Moderate (5),No,No,Aerobic Exercise,Body Scan Meditation
+47,74,M,18.5,Yes,Never,Regularly (5-6 times),Hypotension,High (9-10),Yes,Yes,Strength Training,Body Scan Meditation
+48,67,M,19.2,No,Occasionally,Rarely (1-2 times),Hypertension,Moderate (5),No,Yes,Aerobic Exercise,Body Scan Meditation
+49,31,F,25.2,Yes,Regularly,Rarely (1-2 times),Hypertension,Low (1-4),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+50,74,M,27.7,Yes,Occasionally,Rarely (1-2 times),Hypertension,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+51,33,M,23.7,No,Never,Never,Diabetes,Moderately High (6-8),No,Yes,Aerobic Exercise,Body Scan Meditation
+52,68,F,30.1,Yes,Never,Rarely (1-2 times),Hypertension,Moderate (5),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+53,70,M,32.0,No,Occasionally,Occasionally (3-4 times),Osteoarthritis,High (9-10),No,Yes,Aerobic Exercise,Body Scan Meditation
+54,38,M,19.9,Yes,Never,Regularly (5-6 times),Diabetes,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+55,58,F,28.2,No,Occasionally,Occasionally (3-4 times),Diabetes,Moderate (5),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+56,73,M,18.9,No,Occasionally,Never,Hypotension,Moderate (5),Yes,No,Strength Training,Guided Imagery Meditation
+57,40,F,29.9,Yes,Regularly,Never,Hypotension,Moderate (5),No,No,Strength Training,Mindfulness Meditation
+58,25,M,31.2,No,Never,Occasionally (3-4 times),Diabetes,Moderate (5),No,Yes,Aerobic Exercise,Body Scan Meditation
+59,42,F,23.3,No,Occasionally,Regularly (5-6 times),Hypertension,Moderate (5),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+60,50,F,22.9,Yes,Never,Rarely (1-2 times),Chronic Pain,High (9-10),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+61,29,M,25.7,No,Never,Rarely (1-2 times),Osteoarthritis,Moderately High (6-8),No,Yes,Flexibility Exercise,Body Scan Meditation
+62,44,F,30.3,Yes,Occasionally,Never,Chronic Pain,Moderate (5),No,No,Aerobic Exercise,Body Scan Meditation
+63,69,F,22.5,Yes,Occasionally,Never,Osteoarthritis,Moderately High (6-8),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+64,53,F,34.8,Yes,Never,Never,Chronic Pain,Low (1-4),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+65,70,M,27.4,Yes,Regularly,Rarely (1-2 times),None,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+66,54,M,19.1,No,Regularly,Regularly (5-6 times),None,Moderate (5),Yes,Yes,Strength Training,Body Scan Meditation
+67,73,F,34.5,No,Occasionally,Occasionally (3-4 times),Hypertension,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+68,28,M,20.6,No,Never,Rarely (1-2 times),Diabetes,High (9-10),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+69,48,M,33.1,Yes,Occasionally,Rarely (1-2 times),Hypertension,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+70,30,F,25.4,No,Occasionally,Regularly (5-6 times),Hypertension,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+71,44,F,27.5,No,Regularly,Regularly (5-6 times),Osteoarthritis,High (9-10),No,No,Flexibility Exercise,Guided Imagery Meditation
+72,61,F,32.7,No,Regularly,Occasionally (3-4 times),Osteoarthritis,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+73,72,M,33.1,Yes,Regularly,Never,None,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+74,59,F,32.1,No,Regularly,Rarely (1-2 times),Hypotension,Moderate (5),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+75,73,M,27.5,No,Occasionally,Never,Chronic Pain,Low (1-4),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+76,72,F,32.9,No,Regularly,Regularly (5-6 times),Hypertension,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+77,53,M,22.7,Yes,Never,Never,None,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+78,25,F,20.7,No,Never,Regularly (5-6 times),Osteoarthritis,Moderate (5),No,Yes,Flexibility Exercise,Body Scan Meditation
+79,29,M,32.3,No,Regularly,Never,Hypertension,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+80,63,F,25.5,No,Regularly,Never,Chronic Pain,High (9-10),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+81,45,F,30.1,Yes,Regularly,Regularly (5-6 times),Diabetes,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+82,43,M,29.5,No,Never,Occasionally (3-4 times),Diabetes,High (9-10),No,Yes,Aerobic Exercise,Body Scan Meditation
+83,66,M,25.7,No,Occasionally,Regularly (5-6 times),Chronic Pain,Moderate (5),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+84,26,M,31.8,Yes,Occasionally,Never,Hypotension,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+85,40,F,21.4,No,Regularly,Regularly (5-6 times),Hypertension,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+86,46,M,30.9,No,Regularly,Occasionally (3-4 times),Hypertension,Moderate (5),No,No,Aerobic Exercise,Mindfulness Meditation
+87,72,M,28.8,No,Never,Regularly (5-6 times),None,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+88,49,M,23.9,Yes,Never,Occasionally (3-4 times),Hypertension,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+89,69,M,26.1,Yes,Regularly,Never,Hypotension,High (9-10),No,Yes,Strength Training,Body Scan Meditation
+90,48,F,29.8,Yes,Never,Occasionally (3-4 times),Chronic Pain,High (9-10),No,Yes,Flexibility Exercise,Body Scan Meditation
+91,34,F,29.7,Yes,Never,Never,Hypertension,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+92,35,M,24.7,No,Never,Occasionally (3-4 times),Osteoarthritis,Moderately High (6-8),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+93,51,F,22.6,No,Never,Occasionally (3-4 times),Hypotension,Low (1-4),Yes,No,Strength Training,Guided Imagery Meditation
+94,47,M,26.5,Yes,Regularly,Regularly (5-6 times),None,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+95,36,M,33.7,Yes,Occasionally,Regularly (5-6 times),Diabetes,High (9-10),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+96,48,F,23.3,No,Occasionally,Occasionally (3-4 times),Osteoarthritis,Moderate (5),No,Yes,Flexibility Exercise,Body Scan Meditation
+97,72,M,33.1,No,Never,Occasionally (3-4 times),None,Low (1-4),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+98,67,M,31.3,No,Occasionally,Occasionally (3-4 times),Hypertension,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+99,72,M,24.5,No,Never,Rarely (1-2 times),Hypertension,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+100,33,F,33.1,Yes,Occasionally,Rarely (1-2 times),None,Low (1-4),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+101,30,F,28.4,No,Regularly,Never,Hypertension,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+102,46,F,27.7,Yes,Occasionally,Rarely (1-2 times),Chronic Pain,Moderate (5),No,No,Flexibility Exercise,Body Scan Meditation
+103,31,M,25.5,Yes,Occasionally,Never,Chronic Pain,Moderate (5),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+104,43,M,32.1,Yes,Regularly,Never,Hypotension,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+105,59,F,23.6,No,Regularly,Never,None,Low (1-4),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+106,51,M,18.8,Yes,Never,Regularly (5-6 times),None,High (9-10),Yes,No,Strength Training,Guided Imagery Meditation
+107,44,F,20.3,No,Never,Never,Osteoarthritis,Low (1-4),No,Yes,Flexibility Exercise,Body Scan Meditation
+108,54,M,20.6,Yes,Never,Rarely (1-2 times),Chronic Pain,Moderate (5),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+109,62,M,32.6,No,Never,Never,Diabetes,Moderately High (6-8),No,Yes,Aerobic Exercise,Body Scan Meditation
+110,63,F,22.0,No,Never,Regularly (5-6 times),None,High (9-10),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+111,39,F,18.9,Yes,Occasionally,Regularly (5-6 times),Osteoarthritis,Low (1-4),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+112,46,M,21.9,Yes,Never,Rarely (1-2 times),None,Moderate (5),Yes,No,Strength Training,Guided Imagery Meditation
+113,72,M,25.2,Yes,Regularly,Occasionally (3-4 times),Osteoarthritis,Moderate (5),No,Yes,Flexibility Exercise,Body Scan Meditation
+114,38,M,24.3,No,Never,Never,Chronic Pain,Low (1-4),No,Yes,Flexibility Exercise,Body Scan Meditation
+115,60,M,31.0,No,Occasionally,Occasionally (3-4 times),Chronic Pain,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+116,54,F,26.1,Yes,Occasionally,Regularly (5-6 times),Osteoarthritis,Moderately High (6-8),No,No,Flexibility Exercise,Guided Imagery Meditation
+117,29,F,29.5,No,Regularly,Regularly (5-6 times),Hypertension,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+118,35,F,26.0,Yes,Never,Occasionally (3-4 times),Hypotension,High (9-10),Yes,No,Strength Training,Guided Imagery Meditation
+119,67,F,25.6,Yes,Regularly,Never,None,Moderate (5),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+120,68,F,33.4,No,Never,Rarely (1-2 times),Hypotension,Moderate (5),No,Yes,Aerobic Exercise,Body Scan Meditation
+121,47,M,30.7,No,Regularly,Occasionally (3-4 times),Hypertension,Moderate (5),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+122,26,M,19.2,No,Never,Regularly (5-6 times),None,Moderately High (6-8),Yes,Yes,Strength Training,Body Scan Meditation
+123,56,F,23.9,No,Never,Never,Hypotension,Low (1-4),Yes,Yes,Strength Training,Body Scan Meditation
+124,65,F,30.8,No,Occasionally,Regularly (5-6 times),None,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+125,49,M,32.6,No,Regularly,Never,Osteoarthritis,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+126,52,M,21.1,Yes,Regularly,Occasionally (3-4 times),Chronic Pain,High (9-10),No,Yes,Flexibility Exercise,Body Scan Meditation
+127,52,F,23.8,Yes,Occasionally,Occasionally (3-4 times),Hypertension,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+128,43,M,33.1,No,Regularly,Rarely (1-2 times),Diabetes,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+129,53,M,26.0,No,Never,Never,Chronic Pain,Low (1-4),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+130,41,M,21.3,Yes,Occasionally,Occasionally (3-4 times),None,Moderate (5),No,Yes,Strength Training,Body Scan Meditation
+131,65,M,25.6,Yes,Regularly,Never,Chronic Pain,Moderate (5),No,Yes,Flexibility Exercise,Body Scan Meditation
+132,51,M,20.3,Yes,Never,Regularly (5-6 times),Chronic Pain,Moderately High (6-8),No,Yes,Flexibility Exercise,Body Scan Meditation
+133,74,F,22.8,No,Regularly,Occasionally (3-4 times),None,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+134,74,F,25.8,No,Occasionally,Regularly (5-6 times),Osteoarthritis,Low (1-4),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+135,67,M,27.9,Yes,Never,Regularly (5-6 times),Chronic Pain,Low (1-4),No,No,Flexibility Exercise,Body Scan Meditation
+136,45,F,22.7,No,Occasionally,Regularly (5-6 times),Diabetes,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+137,30,M,23.8,No,Regularly,Regularly (5-6 times),None,High (9-10),No,Yes,Aerobic Exercise,Body Scan Meditation
+138,55,F,26.8,No,Occasionally,Rarely (1-2 times),None,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+139,68,F,30.0,Yes,Occasionally,Regularly (5-6 times),Osteoarthritis,Moderately High (6-8),No,Yes,Flexibility Exercise,Body Scan Meditation
+140,25,F,24.3,No,Occasionally,Regularly (5-6 times),Osteoarthritis,High (9-10),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+141,60,F,34.0,Yes,Regularly,Rarely (1-2 times),Hypotension,High (9-10),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+142,58,F,31.5,Yes,Regularly,Rarely (1-2 times),Chronic Pain,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+143,67,F,25.7,Yes,Occasionally,Regularly (5-6 times),Hypertension,Moderate (5),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+144,56,M,30.3,Yes,Occasionally,Never,Hypertension,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+145,49,M,32.1,Yes,Never,Occasionally (3-4 times),Diabetes,Moderate (5),No,No,Aerobic Exercise,Mindfulness Meditation
+146,57,F,35.0,No,Regularly,Occasionally (3-4 times),Hypotension,Moderate (5),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+147,45,F,30.7,Yes,Occasionally,Never,Chronic Pain,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+148,57,F,19.0,No,Regularly,Occasionally (3-4 times),Hypertension,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+149,55,M,32.2,No,Never,Rarely (1-2 times),Diabetes,Moderate (5),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+150,74,F,26.8,Yes,Regularly,Never,Diabetes,Moderate (5),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+151,71,F,26.5,Yes,Never,Occasionally (3-4 times),Hypotension,Low (1-4),Yes,No,Strength Training,Guided Imagery Meditation
+152,38,F,19.6,No,Regularly,Rarely (1-2 times),Osteoarthritis,Moderately High (6-8),No,Yes,Flexibility Exercise,Body Scan Meditation
+153,26,F,19.2,No,Regularly,Rarely (1-2 times),Osteoarthritis,High (9-10),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+154,73,M,19.2,No,Never,Rarely (1-2 times),Chronic Pain,High (9-10),No,Yes,Flexibility Exercise,Body Scan Meditation
+155,27,M,29.6,No,Occasionally,Never,None,Moderately High (6-8),No,Yes,Aerobic Exercise,Body Scan Meditation
+156,39,F,23.1,Yes,Regularly,Never,Hypertension,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+157,43,F,24.1,No,Regularly,Rarely (1-2 times),Chronic Pain,Moderate (5),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+158,34,F,21.1,Yes,Never,Occasionally (3-4 times),Diabetes,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+159,48,F,26.7,No,Never,Occasionally (3-4 times),Diabetes,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+160,35,F,27.9,No,Occasionally,Occasionally (3-4 times),None,Moderate (5),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+161,54,M,34.5,Yes,Never,Occasionally (3-4 times),Osteoarthritis,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+162,35,M,29.5,Yes,Regularly,Rarely (1-2 times),None,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+163,62,M,28.8,No,Never,Regularly (5-6 times),Diabetes,High (9-10),No,Yes,Aerobic Exercise,Body Scan Meditation
+164,63,F,22.6,Yes,Never,Occasionally (3-4 times),Osteoarthritis,Moderate (5),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+165,34,F,18.6,Yes,Regularly,Occasionally (3-4 times),None,Moderate (5),Yes,No,Strength Training,Guided Imagery Meditation
+166,65,M,30.1,No,Never,Never,Osteoarthritis,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+167,57,M,24.7,No,Regularly,Regularly (5-6 times),Chronic Pain,Moderate (5),No,No,Flexibility Exercise,Body Scan Meditation
+168,72,F,23.9,No,Occasionally,Occasionally (3-4 times),Osteoarthritis,High (9-10),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+169,38,F,28.7,Yes,Regularly,Occasionally (3-4 times),None,High (9-10),No,Yes,Aerobic Exercise,Body Scan Meditation
+170,34,F,34.2,Yes,Regularly,Occasionally (3-4 times),Diabetes,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+171,69,F,18.7,Yes,Regularly,Rarely (1-2 times),Hypotension,Low (1-4),No,No,Strength Training,Mindfulness Meditation
+172,28,M,34.5,Yes,Occasionally,Occasionally (3-4 times),Chronic Pain,Moderate (5),No,Yes,Aerobic Exercise,Body Scan Meditation
+173,41,M,29.3,No,Never,Regularly (5-6 times),Hypertension,Moderate (5),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+174,74,F,29.6,Yes,Occasionally,Never,Diabetes,Moderate (5),No,No,Aerobic Exercise,Mindfulness Meditation
+175,38,F,31.6,Yes,Regularly,Occasionally (3-4 times),None,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+176,25,F,24.8,Yes,Never,Rarely (1-2 times),Osteoarthritis,Moderately High (6-8),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+177,62,F,26.4,Yes,Never,Occasionally (3-4 times),Diabetes,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+178,62,F,26.5,No,Regularly,Never,Osteoarthritis,Moderately High (6-8),No,No,Flexibility Exercise,Guided Imagery Meditation
+179,37,M,19.2,No,Occasionally,Rarely (1-2 times),Hypotension,Moderately High (6-8),No,No,Strength Training,Guided Imagery Meditation
+180,71,F,28.7,Yes,Regularly,Rarely (1-2 times),Diabetes,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+181,64,M,24.8,Yes,Never,Regularly (5-6 times),Chronic Pain,Low (1-4),No,No,Flexibility Exercise,Body Scan Meditation
+182,30,F,32.0,Yes,Never,Rarely (1-2 times),Hypotension,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+183,50,M,31.7,No,Never,Rarely (1-2 times),Diabetes,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+184,35,M,19.6,Yes,Never,Rarely (1-2 times),Osteoarthritis,Moderately High (6-8),No,Yes,Flexibility Exercise,Body Scan Meditation
+185,68,M,27.2,Yes,Occasionally,Regularly (5-6 times),None,High (9-10),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+186,32,F,25.4,Yes,Never,Occasionally (3-4 times),Hypertension,Moderate (5),No,No,Aerobic Exercise,Mindfulness Meditation
+187,58,F,27.7,Yes,Regularly,Rarely (1-2 times),None,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+188,73,F,21.3,No,Never,Never,Chronic Pain,Moderate (5),No,No,Flexibility Exercise,Body Scan Meditation
+189,53,M,27.7,No,Occasionally,Rarely (1-2 times),Osteoarthritis,Low (1-4),No,No,Flexibility Exercise,Mindfulness Meditation
+190,67,M,29.0,Yes,Never,Never,Osteoarthritis,High (9-10),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+191,64,F,18.8,Yes,Never,Regularly (5-6 times),Diabetes,Moderate (5),No,No,Aerobic Exercise,Mindfulness Meditation
+192,58,M,27.6,Yes,Regularly,Regularly (5-6 times),None,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+193,41,F,31.4,No,Regularly,Regularly (5-6 times),None,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+194,75,M,19.9,Yes,Never,Occasionally (3-4 times),Osteoarthritis,Moderate (5),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+195,67,F,19.5,No,Occasionally,Regularly (5-6 times),Diabetes,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+196,75,F,19.3,Yes,Occasionally,Never,Osteoarthritis,Low (1-4),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+197,73,M,20.9,No,Occasionally,Never,Chronic Pain,Moderately High (6-8),No,No,Flexibility Exercise,Guided Imagery Meditation
+198,53,F,31.1,Yes,Regularly,Occasionally (3-4 times),Diabetes,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+199,62,F,33.2,Yes,Regularly,Regularly (5-6 times),Chronic Pain,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+200,34,M,31.8,No,Regularly,Occasionally (3-4 times),Chronic Pain,Moderate (5),No,No,Aerobic Exercise,Body Scan Meditation
+201,30,F,28.0,No,Regularly,Never,Hypotension,Moderate (5),Yes,No,Strength Training,Guided Imagery Meditation
+202,71,F,23.9,Yes,Occasionally,Regularly (5-6 times),Chronic Pain,Low (1-4),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+203,74,F,28.2,No,Never,Regularly (5-6 times),Chronic Pain,Moderately High (6-8),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+204,34,M,23.8,No,Occasionally,Rarely (1-2 times),Hypertension,Moderately High (6-8),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+205,70,F,30.0,Yes,Occasionally,Occasionally (3-4 times),Hypotension,Moderate (5),Yes,Yes,Strength Training,Body Scan Meditation
+206,25,M,20.4,Yes,Occasionally,Never,Osteoarthritis,Moderately High (6-8),No,No,Flexibility Exercise,Guided Imagery Meditation
+207,43,M,31.3,No,Occasionally,Rarely (1-2 times),Chronic Pain,Low (1-4),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+208,56,F,34.2,Yes,Never,Never,None,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+209,68,M,20.9,No,Occasionally,Never,Chronic Pain,High (9-10),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+210,73,M,28.2,Yes,Occasionally,Regularly (5-6 times),Osteoarthritis,High (9-10),No,Yes,Flexibility Exercise,Body Scan Meditation
+211,73,F,21.0,No,Never,Occasionally (3-4 times),Hypertension,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+212,45,F,21.4,Yes,Never,Rarely (1-2 times),None,Moderately High (6-8),No,Yes,Strength Training,Body Scan Meditation
+213,32,F,19.7,Yes,Never,Occasionally (3-4 times),Hypertension,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+214,66,M,29.2,No,Occasionally,Rarely (1-2 times),None,Moderately High (6-8),No,Yes,Aerobic Exercise,Body Scan Meditation
+215,34,M,32.3,Yes,Never,Rarely (1-2 times),Diabetes,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+216,69,M,22.6,No,Occasionally,Rarely (1-2 times),Diabetes,Moderately High (6-8),No,Yes,Aerobic Exercise,Body Scan Meditation
+217,35,F,23.3,No,Regularly,Rarely (1-2 times),Hypotension,Moderate (5),No,Yes,Strength Training,Body Scan Meditation
+218,39,M,33.5,Yes,Regularly,Rarely (1-2 times),Hypotension,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+219,72,F,25.3,Yes,Never,Occasionally (3-4 times),Hypotension,High (9-10),Yes,No,Strength Training,Guided Imagery Meditation
+220,72,M,20.8,No,Occasionally,Never,Hypotension,Low (1-4),No,No,Strength Training,Mindfulness Meditation
+221,49,M,29.9,Yes,Occasionally,Regularly (5-6 times),Hypotension,High (9-10),Yes,Yes,Strength Training,Body Scan Meditation
+222,37,M,24.0,Yes,Occasionally,Never,Hypertension,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+223,58,F,34.2,No,Never,Regularly (5-6 times),Diabetes,Moderate (5),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+224,41,M,22.0,No,Never,Rarely (1-2 times),Osteoarthritis,Low (1-4),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+225,72,F,23.3,No,Occasionally,Regularly (5-6 times),Diabetes,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+226,27,F,28.2,Yes,Regularly,Never,Hypotension,Moderate (5),Yes,Yes,Strength Training,Body Scan Meditation
+227,50,F,18.8,No,Never,Regularly (5-6 times),Chronic Pain,Moderate (5),No,Yes,Flexibility Exercise,Body Scan Meditation
+228,73,F,34.1,No,Occasionally,Never,Hypotension,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+229,43,M,25.4,Yes,Regularly,Never,None,Moderate (5),No,No,Aerobic Exercise,Mindfulness Meditation
+230,47,F,20.7,No,Never,Rarely (1-2 times),Diabetes,Low (1-4),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+231,75,M,24.7,Yes,Regularly,Rarely (1-2 times),Hypotension,Low (1-4),Yes,Yes,Strength Training,Body Scan Meditation
+232,60,M,32.8,No,Regularly,Regularly (5-6 times),Chronic Pain,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+233,26,M,18.9,No,Regularly,Never,Chronic Pain,Moderately High (6-8),No,No,Flexibility Exercise,Guided Imagery Meditation
+234,50,M,33.5,Yes,Regularly,Rarely (1-2 times),Hypertension,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+235,72,F,24.5,Yes,Never,Occasionally (3-4 times),Hypertension,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+236,40,M,25.5,Yes,Occasionally,Occasionally (3-4 times),Osteoarthritis,Moderate (5),No,Yes,Flexibility Exercise,Body Scan Meditation
+237,43,F,21.6,No,Regularly,Rarely (1-2 times),Osteoarthritis,Moderately High (6-8),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+238,71,M,33.3,No,Regularly,Regularly (5-6 times),Chronic Pain,Moderate (5),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+239,65,F,18.9,Yes,Never,Never,Diabetes,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+240,63,F,20.3,No,Never,Rarely (1-2 times),None,Moderately High (6-8),Yes,No,Strength Training,Guided Imagery Meditation
+241,75,F,27.3,Yes,Occasionally,Never,None,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+242,39,M,20.9,Yes,Never,Rarely (1-2 times),Osteoarthritis,Low (1-4),No,Yes,Flexibility Exercise,Body Scan Meditation
+243,30,M,28.5,Yes,Occasionally,Never,Diabetes,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+244,65,M,19.5,Yes,Never,Rarely (1-2 times),None,Low (1-4),Yes,No,Strength Training,Guided Imagery Meditation
+245,58,M,34.5,No,Never,Occasionally (3-4 times),Hypertension,High (9-10),No,Yes,Aerobic Exercise,Body Scan Meditation
+246,64,F,34.0,Yes,Never,Rarely (1-2 times),Hypotension,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+247,25,F,32.3,No,Regularly,Rarely (1-2 times),Hypertension,Low (1-4),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+248,55,F,29.3,No,Occasionally,Never,Diabetes,Moderate (5),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+249,56,F,32.2,Yes,Occasionally,Never,Chronic Pain,Low (1-4),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+250,59,F,32.8,Yes,Occasionally,Never,Osteoarthritis,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+251,51,F,29.6,No,Regularly,Never,Hypotension,Moderately High (6-8),No,Yes,Strength Training,Body Scan Meditation
+252,34,F,21.5,No,Occasionally,Regularly (5-6 times),Chronic Pain,Moderately High (6-8),No,No,Flexibility Exercise,Guided Imagery Meditation
+253,54,F,19.3,No,Never,Regularly (5-6 times),Osteoarthritis,Moderate (5),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+254,58,F,21.3,Yes,Regularly,Regularly (5-6 times),Chronic Pain,Low (1-4),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+255,54,M,30.1,Yes,Never,Never,None,Moderate (5),No,No,Aerobic Exercise,Mindfulness Meditation
+256,41,M,30.7,No,Occasionally,Occasionally (3-4 times),Chronic Pain,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+257,54,F,32.1,Yes,Never,Occasionally (3-4 times),Osteoarthritis,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+258,55,F,27.0,Yes,Regularly,Rarely (1-2 times),Chronic Pain,Moderately High (6-8),Yes,No,Flexibility Exercise,Guided Imagery Meditation
+259,57,M,24.4,No,Occasionally,Occasionally (3-4 times),Osteoarthritis,Moderately High (6-8),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+260,40,F,34.3,Yes,Occasionally,Regularly (5-6 times),None,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+261,74,M,28.8,Yes,Occasionally,Occasionally (3-4 times),Diabetes,Moderate (5),No,No,Aerobic Exercise,Mindfulness Meditation
+262,25,M,32.2,No,Regularly,Occasionally (3-4 times),Diabetes,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+263,58,F,27.3,Yes,Regularly,Never,None,High (9-10),No,Yes,Aerobic Exercise,Body Scan Meditation
+264,32,F,22.1,No,Never,Occasionally (3-4 times),Hypertension,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+265,56,M,21.3,Yes,Occasionally,Occasionally (3-4 times),Diabetes,Moderately High (6-8),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+266,40,M,33.0,Yes,Never,Rarely (1-2 times),Diabetes,Low (1-4),No,No,Aerobic Exercise,Mindfulness Meditation
+267,71,M,19.9,Yes,Regularly,Never,Hypertension,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+268,38,F,32.9,No,Occasionally,Occasionally (3-4 times),None,Moderate (5),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+269,41,M,33.1,No,Never,Regularly (5-6 times),Osteoarthritis,Moderately High (6-8),No,Yes,Aerobic Exercise,Body Scan Meditation
+270,32,F,27.9,No,Never,Occasionally (3-4 times),Hypertension,Low (1-4),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+271,29,M,22.7,No,Regularly,Never,None,Moderately High (6-8),No,Yes,Aerobic Exercise,Body Scan Meditation
+272,50,M,27.3,Yes,Never,Rarely (1-2 times),Osteoarthritis,Moderate (5),No,Yes,Flexibility Exercise,Body Scan Meditation
+273,43,M,28.5,Yes,Never,Occasionally (3-4 times),Osteoarthritis,Low (1-4),No,No,Flexibility Exercise,Mindfulness Meditation
+274,42,M,27.4,No,Occasionally,Regularly (5-6 times),Osteoarthritis,Moderately High (6-8),No,No,Flexibility Exercise,Guided Imagery Meditation
+275,38,F,31.9,Yes,Never,Rarely (1-2 times),Chronic Pain,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+276,45,M,19.4,Yes,Occasionally,Occasionally (3-4 times),Hypotension,Moderate (5),Yes,Yes,Strength Training,Body Scan Meditation
+277,33,F,19.2,No,Never,Occasionally (3-4 times),Osteoarthritis,Low (1-4),No,No,Flexibility Exercise,Mindfulness Meditation
+278,57,F,33.7,Yes,Regularly,Never,Hypertension,Moderately High (6-8),No,Yes,Aerobic Exercise,Body Scan Meditation
+279,68,F,24.8,No,Regularly,Never,Diabetes,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+280,41,F,34.0,Yes,Never,Regularly (5-6 times),Hypertension,High (9-10),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+281,71,M,30.1,No,Regularly,Occasionally (3-4 times),Chronic Pain,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+282,73,M,23.1,No,Occasionally,Occasionally (3-4 times),Hypertension,Moderate (5),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+283,46,F,34.2,No,Never,Occasionally (3-4 times),Diabetes,High (9-10),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+284,48,M,27.8,No,Regularly,Never,Chronic Pain,High (9-10),No,Yes,Flexibility Exercise,Body Scan Meditation
+285,47,M,34.4,Yes,Occasionally,Rarely (1-2 times),Chronic Pain,Moderate (5),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+286,57,F,31.5,Yes,Occasionally,Occasionally (3-4 times),Diabetes,Low (1-4),No,Yes,Aerobic Exercise,Body Scan Meditation
+287,69,F,21.9,Yes,Occasionally,Never,None,Low (1-4),No,Yes,Strength Training,Body Scan Meditation
+288,41,M,32.4,Yes,Never,Never,Diabetes,Moderate (5),No,Yes,Aerobic Exercise,Body Scan Meditation
+289,37,M,24.3,Yes,Occasionally,Never,Diabetes,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+290,66,M,18.9,Yes,Regularly,Rarely (1-2 times),None,Moderately High (6-8),No,Yes,Strength Training,Body Scan Meditation
+291,58,F,24.4,Yes,Never,Regularly (5-6 times),Hypertension,Low (1-4),Yes,Yes,Aerobic Exercise,Body Scan Meditation
+292,64,F,23.0,No,Never,Never,Chronic Pain,Low (1-4),Yes,Yes,Flexibility Exercise,Body Scan Meditation
+293,36,M,30.4,No,Occasionally,Never,Hypotension,Moderately High (6-8),No,Yes,Aerobic Exercise,Body Scan Meditation
+294,53,M,34.0,Yes,Never,Rarely (1-2 times),Osteoarthritis,Moderate (5),Yes,No,Aerobic Exercise,Guided Imagery Meditation
+295,46,F,24.4,No,Occasionally,Regularly (5-6 times),Hypotension,Moderate (5),Yes,Yes,Strength Training,Body Scan Meditation
+296,56,M,33.6,Yes,Occasionally,Never,Hypotension,High (9-10),No,No,Aerobic Exercise,Guided Imagery Meditation
+297,42,M,27.2,No,Regularly,Regularly (5-6 times),Diabetes,Moderately High (6-8),No,No,Aerobic Exercise,Guided Imagery Meditation
+298,27,F,19.1,Yes,Regularly,Never,None,Moderate (5),No,No,Strength Training,Mindfulness Meditation
+299,44,F,21.6,Yes,Occasionally,Occasionally (3-4 times),Hypotension,Moderately High (6-8),No,Yes,Strength Training,Body Scan Meditation
+300,54,M,33.4,No,Occasionally,Rarely (1-2 times),Hypotension,High (9-10),Yes,No,Aerobic Exercise,Guided Imagery Meditation

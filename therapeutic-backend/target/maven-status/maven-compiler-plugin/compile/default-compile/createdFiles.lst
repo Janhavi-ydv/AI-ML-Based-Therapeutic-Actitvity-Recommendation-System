@@ -1,0 +1,8 @@
+com\project\therapeutic\exception\GlobalExceptionHandler.class
+com\project\therapeutic\dto\RecommendationResponse$RecommendationResponseBuilder.class
+com\project\therapeutic\service\RecommendationService.class
+com\project\therapeutic\TherapeuticApplication.class
+com\project\therapeutic\dto\RecommendationRequest.class
+com\project\therapeutic\dto\RecommendationResponse.class
+com\project\therapeutic\controller\RecommendationController.class
+com\project\therapeutic\config\CorsConfig.class
