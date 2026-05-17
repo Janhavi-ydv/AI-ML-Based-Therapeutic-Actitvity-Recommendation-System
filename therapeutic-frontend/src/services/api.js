@@ -1,23 +1,38 @@
-import axios from 'axios';
+import axios from "axios";
 
-const API_BASE_URL = 'http://localhost:8080';
-
-const apiClient = axios.create({
-  baseURL: API_BASE_URL,
-  headers: {
-    'Content-Type': 'application/json',
-  },
-  timeout: 15000,
+const api = axios.create({
+  baseURL: "http://localhost:8080/api",
+  headers: { "Content-Type": "application/json" },
 });
 
-/**
- * Fetch activity recommendations based on patient health data.
- * @param {Object} patientData - The patient's health profile.
- * @returns {Promise<{recommendedExercise: string, recommendedMeditation: string}>}
- */
-export const getRecommendation = async (patientData) => {
-  const response = await apiClient.post('/api/recommendation', patientData);
+// ─── Request Interceptor — attach JWT token ───────────────────────────────────
+api.interceptors.request.use(
+  (config) => {
+    const token = localStorage.getItem("jwt_token");
+    if (token) {
+      config.headers.Authorization = `Bearer ${token}`;
+    }
+    return config;
+  },
+  (error) => Promise.reject(error)
+);
+
+// ─── Response Interceptor — handle 401 ───────────────────────────────────────
+api.interceptors.response.use(
+  (response) => response,
+  (error) => {
+    if (error.response?.status === 401) {
+      localStorage.removeItem("jwt_token");
+      window.location.href = "/login";
+    }
+    return Promise.reject(error);
+  }
+);
+
+// ─── Recommendation ───────────────────────────────────────────────────────────
+export const getRecommendation = async (formData) => {
+  const response = await api.post("/recommendation", formData);
   return response.data;
 };
 
-export default apiClient;
+export default api;
