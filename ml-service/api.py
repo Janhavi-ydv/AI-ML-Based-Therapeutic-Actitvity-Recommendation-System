@@ -10,6 +10,7 @@ artifacts = joblib.load("therapeutic_model.pkl")
 model = artifacts["model"]
 scaler = artifacts["scaler"]
 feature_columns = artifacts["feature_columns"]
+label_encoders = artifacts["label_encoders"]
 
 
 def preprocess_input(input_data):
@@ -49,10 +50,10 @@ def predict(data: dict):
 
     prediction = model.predict(processed)
 
-    exercise_pred = int(prediction[0][0])
-    meditation_pred = int(prediction[0][1])
+    exercise_label = label_encoders["Exercise Recommendation (Output)"][prediction[0][0]]
+    meditation_label = label_encoders["Meditation Recommendation (Output)"][prediction[0][1]]
 
     return {
-        "exercise_prediction": exercise_pred,
-        "meditation_prediction": meditation_pred
+        "exercise": exercise_label,
+        "meditation": meditation_label
     }
